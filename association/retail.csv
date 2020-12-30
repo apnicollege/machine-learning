@@ -1,0 +1,10 @@
+Milk,Bread,Apple,
+Milk,Bread,,
+Milk,Bread,Apple,Banana
+Milk,Banana,Rice,Chicken
+Apple,Rice,Chicken,
+Milk,Bread,Banana,
+Rice,Chicken,,
+Bread,Apple,Chicken,
+Bread,Chicken,,
+Apple,Banana,,
